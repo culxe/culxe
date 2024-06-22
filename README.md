@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indi</h1>
 
-- 🌱 I’m currently learning **web development, artificial intelligence, data science. other: crocheting, cooking, music**
+- 🌱 I’m currently learning **web development, artificial intelligence, data science**. other: crocheting, cooking, music.
 
 - 📫 How to reach me **indinamaull@gmail.com**
 
