@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, I'm Indi 👋
+
+- **Tools**: Git, VS Code
+
+- 📫 How to reach me: [Email](mailto:indinamaull@gmail.com)
