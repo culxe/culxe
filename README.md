@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indi</h1>
 
-- 🌱 I’m currently learning **artificial intelligence**
+- 🌱 I’m currently learning **all**
 
 - 📫 How to reach me **indinamaull@gmail.com**
 
