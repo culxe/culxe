@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indi</h1>
 
-- 🌱 I’m currently learning **all**
-
-- 📫 How to reach me **indinamaull@gmail.com**
+📫 How to reach me **indinamaull@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
